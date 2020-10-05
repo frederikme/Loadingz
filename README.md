@@ -18,7 +18,7 @@ loadingbar = Loadingbar(length_of_loop=len(data))
 
 for index in range(len(data)):
     # Handle your data here
-    element = data[index)
+    element = data[index]
     
     # update loadingbar 
     loadingbar.update(index)
