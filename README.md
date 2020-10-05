@@ -1,10 +1,14 @@
 # Loadingbar
 Loadingbar that can display the loading process.</br>
-I will try to turn this into a pip package soon.
+
+# Install Loadingbar using pip
+```
+pip install loadingz
+```
 
 # Usage
 ```
-from loadingbar import Loadingbar
+from loadingz import Loadingbar
 
 # let's say you have to iterate through some data
 data = [elem_one, elem_two, ...]
