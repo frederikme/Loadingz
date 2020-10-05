@@ -1,12 +1,12 @@
 # Loadingbar
 Loadingbar that can display the loading process.</br>
 
-# Install Loadingbar using pip
+## Install Loadingbar using pip
 ```
 pip install loadingz
 ```
 
-# Usage
+## Usage
 ```
 from loadingz import Loadingbar
 
@@ -22,4 +22,5 @@ for index in range(len(data)):
     # update loadingbar 
     loadingbar.update(index)
 ```
+## Demo
 <img src="https://user-images.githubusercontent.com/60892381/95025533-acd7a800-068a-11eb-9537-b4ab7cfd536e.gif"></img>
