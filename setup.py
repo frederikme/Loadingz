@@ -1,8 +1,8 @@
 from distutils.core import setup
 
 setup(
-  name='loadingbar',         # How you named your loadingbar folder (MyLib)
-  packages=['loadingbar'],   # Chose the same as "name"
+  name='loadingbar-display',         # How you named your loadingbar-display folder (MyLib)
+  packages=['loadingbar-display'],   # Chose the same as "name"
   version='0.1',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description='Tool for displaying loading processes',   # Give a short description about your library
@@ -11,11 +11,11 @@ setup(
   author_email='frederik.mees@gmail.com',      # Type in your E-Mail
   url='https://github.com/frederikme/Loadingbar',   # Provide either the link to your github or to your website
   download_url='https://github.com/frederikme/Loadingbar/archive/v_01.tar.gz',    # I explain this later on
-  keywords=['Loading', 'Process', 'Display'],   # Keywords that define your loadingbar best
+  keywords=['Loading', 'Process', 'Display'],   # Keywords that define your loadingbar-display best
   install_requires=[],            # I get to this in a second
 
   classifiers=[
-    'Development Status :: 3 - Alpha',      # Chose either "3 - Alpha", "4 - Beta" or "5 - Production/Stable" as the current state of your loadingbar
+    'Development Status :: 3 - Alpha',      # Chose either "3 - Alpha", "4 - Beta" or "5 - Production/Stable" as the current state of your loadingbar-display
     'Intended Audience :: Developers',      # Define that your audience are developers
     'Topic :: Software Development :: Build Tools',
     'License :: OSI Approved :: MIT License',   # Again, pick a license
