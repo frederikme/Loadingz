@@ -1,7 +1,7 @@
 # Loadingz
 Loadingbar that can display a loading process.</br>
-**Now available on** ***[PyPi](https://pypi.org/project/loadingz/)***.
-
+**Now available on** ***[PyPi](https://pypi.org/project/loadingz/)***.</br>
+***Note:*** *This is nothing more but a useless testing project to learn about getting a project on pip*
 ## Install Loadingz using pip
 ```
 pip install loadingz
